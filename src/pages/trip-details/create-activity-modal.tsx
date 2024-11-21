@@ -30,8 +30,6 @@ export function CreateActivityModal({
     window.document.location.reload()
   }
 
-
-
     return(
         <div className="fixed inset-0 bg-black/60 flex items-center justify-center">
           <div className="bg-zinc-900 w-[640px] rounded-xl py-5 px-6 shadow-shape space-y-5">
